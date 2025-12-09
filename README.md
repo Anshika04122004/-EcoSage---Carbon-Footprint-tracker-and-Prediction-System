@@ -1,0 +1,2 @@
+# -EcoSage---Carbon-Footprint-tracker-and-Prediction-System
+EcoSage is an intelligent web-based platform designed to help individuals and industries measure, analyze, and reduce their carbon footprint. Powered by Next.js, React, and integrated AI models for OCR and scenario analysis, EcoSage makes sustainability accessible through accurate calculations, predictions, and interactive visualizations.
